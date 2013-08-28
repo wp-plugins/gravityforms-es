@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Gravity Forms Pay Pal\n"
 "Report-Msgid-Bugs-To: Pronamic <info@pronamic.nl>\n"
 "POT-Creation-Date: 2013-08-09 14:01+0200\n"
-"PO-Revision-Date: 2013-08-22 17:16+0100\n"
+"PO-Revision-Date: 2013-08-24 17:24+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Closemarketing <david@closemarketing.es>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: paypal.php:200
 msgid "Gravity Forms "
-msgstr ""
+msgstr "Gravity Forms "
 
 #: paypal.php:207
 msgid "There is a new version of Gravity Forms PayPal Add-On available."
@@ -40,11 +40,11 @@ msgstr ""
 
 #: paypal.php:247 paypal.php:671 paypal.php:1127
 msgid "PayPal"
-msgstr ""
+msgstr "PayPal"
 
 #: paypal.php:263 paypal.php:1233
 msgid "PayPal Email Address"
-msgstr ""
+msgstr "Email PayPal"
 
 #: paypal.php:263
 msgid "Enter the PayPal email address where payment should be received."
@@ -52,7 +52,7 @@ msgstr ""
 
 #: paypal.php:264 paypal.php:1244
 msgid "Mode"
-msgstr ""
+msgstr "Modo"
 
 #: paypal.php:264
 msgid ""
@@ -62,7 +62,7 @@ msgstr ""
 
 #: paypal.php:265 paypal.php:442 paypal.php:451 paypal.php:1253
 msgid "Transaction Type"
-msgstr ""
+msgstr "Tipo Transacción"
 
 #: paypal.php:265
 msgid ""
@@ -72,7 +72,7 @@ msgstr ""
 
 #: paypal.php:266 paypal.php:1263
 msgid "Gravity Form"
-msgstr ""
+msgstr "Gravity Form"
 
 #: paypal.php:266
 msgid "Select which Gravity Forms you would like to integrate with PayPal."
@@ -80,7 +80,7 @@ msgstr ""
 
 #: paypal.php:267 paypal.php:1372
 msgid "Customer"
-msgstr ""
+msgstr "Cliente"
 
 #: paypal.php:267
 msgid ""
@@ -89,7 +89,7 @@ msgstr ""
 
 #: paypal.php:268 paypal.php:1383
 msgid "Page Style"
-msgstr ""
+msgstr "Estilo Página"
 
 #: paypal.php:268
 msgid ""
@@ -99,7 +99,7 @@ msgstr ""
 
 #: paypal.php:269 paypal.php:1387
 msgid "Continue Button Label"
-msgstr ""
+msgstr "Etiqueta del Botón Continuar"
 
 #: paypal.php:269
 msgid ""
@@ -109,7 +109,7 @@ msgstr ""
 
 #: paypal.php:270 paypal.php:1391
 msgid "Cancel URL"
-msgstr ""
+msgstr "URL Cancelar"
 
 #: paypal.php:270
 msgid ""
@@ -119,7 +119,7 @@ msgstr ""
 
 #: paypal.php:271 paypal.php:1396
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 #: paypal.php:271
 msgid "Turn on or off the available PayPal checkout options."
@@ -127,7 +127,7 @@ msgstr ""
 
 #: paypal.php:272 paypal.php:1296
 msgid "Recurring Amount"
-msgstr ""
+msgstr "Cantidad recurrente"
 
 #: paypal.php:272
 msgid ""
@@ -137,7 +137,7 @@ msgstr ""
 
 #: paypal.php:273 paypal.php:1303
 msgid "Billing Cycle"
-msgstr ""
+msgstr "Ciclo Facturación"
 
 #: paypal.php:273
 msgid ""
@@ -157,7 +157,7 @@ msgstr ""
 
 #: paypal.php:275 paypal.php:277 paypal.php:1339 paypal.php:1350
 msgid "Trial Period"
-msgstr ""
+msgstr "Período Prueba"
 
 #: paypal.php:275
 msgid ""
@@ -167,7 +167,7 @@ msgstr ""
 
 #: paypal.php:276 paypal.php:1346
 msgid "Trial Amount"
-msgstr ""
+msgstr "Cantidad de Prueba"
 
 #: paypal.php:276
 msgid "Enter the trial period amount or leave it blank for a free trial."
@@ -179,7 +179,7 @@ msgstr ""
 
 #: paypal.php:278 paypal.php:1470
 msgid "PayPal Condition"
-msgstr ""
+msgstr "Condición PayPal"
 
 #: paypal.php:278
 msgid ""
@@ -190,7 +190,7 @@ msgstr ""
 
 #: paypal.php:279
 msgid "Amount"
-msgstr ""
+msgstr "Cantidad"
 
 #: paypal.php:279
 msgid "Enter the amount the user paid for this transaction."
@@ -198,7 +198,7 @@ msgstr ""
 
 #: paypal.php:280
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 #: paypal.php:280
 msgid "Enter the date of this transaction."
@@ -216,7 +216,7 @@ msgstr ""
 
 #: paypal.php:282
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 #: paypal.php:282
 msgid ""
@@ -226,11 +226,11 @@ msgstr ""
 
 #: paypal.php:390
 msgid "Feed deleted."
-msgstr ""
+msgstr "Conector borrado."
 
 #: paypal.php:401
 msgid "Feeds deleted."
-msgstr ""
+msgstr "Conectores Borrados"
 
 #: paypal.php:407
 msgid "PayPal Transactions"
@@ -238,11 +238,11 @@ msgstr ""
 
 #: paypal.php:409
 msgid "PayPal Forms"
-msgstr ""
+msgstr "Formularios PayPal"
 
 #: paypal.php:413
 msgid "Add New"
-msgstr ""
+msgstr "Añadir Nuevo"
 
 #: paypal.php:426 paypal.php:428
 msgid "Bulk action"
@@ -262,11 +262,11 @@ msgstr ""
 
 #: paypal.php:432 paypal.php:491
 msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
-msgstr ""
+msgstr "\\'Cancelar\\' para parar, \\'OK\\' para borrar."
 
 #: paypal.php:441 paypal.php:450
 msgid "Form"
-msgstr ""
+msgstr "Formulario"
 
 #: paypal.php:464
 #, php-format
@@ -275,35 +275,35 @@ msgstr ""
 
 #: paypal.php:474 paypal.php:544
 msgid "Active"
-msgstr ""
+msgstr "Activo"
 
 #: paypal.php:474 paypal.php:540
 msgid "Inactive"
-msgstr ""
+msgstr "Desactivo"
 
 #: paypal.php:476 paypal.php:479
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: paypal.php:483
 msgid "View Stats"
-msgstr ""
+msgstr "Ver Estadísticas"
 
 #: paypal.php:483
 msgid "Stats"
-msgstr ""
+msgstr "Estadísticas"
 
 #: paypal.php:487
 msgid "View Entries"
-msgstr ""
+msgstr "Ver Entradas"
 
 #: paypal.php:487
 msgid "Entries"
-msgstr ""
+msgstr "Entradas"
 
 #: paypal.php:491
 msgid "Delete this feed? "
-msgstr ""
+msgstr "¿Borrar conector?"
 
 #: paypal.php:499
 msgid "Product and Services"
@@ -311,7 +311,7 @@ msgstr ""
 
 #: paypal.php:503
 msgid "Donation"
-msgstr ""
+msgstr "Donación"
 
 #: paypal.php:507
 msgid "Subscription"
@@ -452,99 +452,99 @@ msgstr ""
 
 #: paypal.php:906
 msgid "Subscriptions Today"
-msgstr ""
+msgstr "Suscripciones Hoy"
 
 #: paypal.php:910
 msgid "Revenue Today"
-msgstr ""
+msgstr "Beneficios Hoy"
 
 #: paypal.php:946
 msgid "Week"
-msgstr ""
+msgstr "Semana"
 
 #: paypal.php:966
 msgid "Orders this Week"
-msgstr ""
+msgstr "Pedidos esta semana"
 
 #: paypal.php:970
 msgid "Donations this Week"
-msgstr ""
+msgstr "Donaciones esta semana"
 
 #: paypal.php:974
 msgid "Subscriptions this Week"
-msgstr ""
+msgstr "Suscripciones esta semana"
 
 #: paypal.php:979
 msgid "Revenue this Week"
-msgstr ""
+msgstr "Beneficio esta semana"
 
 #: paypal.php:1035
 msgid "Orders this Month"
-msgstr ""
+msgstr "Pedidos este mes"
 
 #: paypal.php:1039
 msgid "Donations this Month"
-msgstr ""
+msgstr "Donaciones este Mes"
 
 #: paypal.php:1043
 msgid "Subscriptions this Month"
-msgstr ""
+msgstr "Suscripciones este Mes"
 
 #: paypal.php:1047
 msgid "Revenue this Month"
-msgstr ""
+msgstr "Beneficios este Mes"
 
 #: paypal.php:1061
 msgid "Jan"
-msgstr ""
+msgstr "Ene"
 
 #: paypal.php:1061
 msgid "Feb"
-msgstr ""
+msgstr "Feb"
 
 #: paypal.php:1061
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 #: paypal.php:1061
 msgid "Apr"
-msgstr ""
+msgstr "Abr"
 
 #: paypal.php:1061
 msgid "May"
-msgstr ""
+msgstr "May"
 
 #: paypal.php:1061
 msgid "Jun"
-msgstr ""
+msgstr "Jun"
 
 #: paypal.php:1061
 msgid "Jul"
-msgstr ""
+msgstr "Jul"
 
 #: paypal.php:1061
 msgid "Aug"
-msgstr ""
+msgstr "Ago"
 
 #: paypal.php:1061
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #: paypal.php:1061
 msgid "Oct"
-msgstr ""
+msgstr "Oct"
 
 #: paypal.php:1061
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #: paypal.php:1061
 msgid "Dec"
-msgstr ""
+msgstr "Dic"
 
 #: paypal.php:1091
 msgid "Please wait..."
-msgstr ""
+msgstr "Por favor espere..."
 
 #: paypal.php:1100
 msgid ""
