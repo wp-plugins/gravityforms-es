@@ -3,8 +3,8 @@ Contributors: closemarketing
 Tags: gravityforms, gravity, form, forms, gravity forms, translation, spanish, espanol, español, es, es_ES
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZYGC6AT5JFQVE
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 2.7.8
+Tested up to: 3.6
+Stable tag: 1.1
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
@@ -14,7 +14,7 @@ This WordPress plugin extends the Gravity Forms plugin with the Spanish translat
 The [Gravity Forms](https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527) developers don't focus on translating
 their plugin. Instead they concentrate on the core functionalities of the plugin itself.
 Therefore there are regular updates of the Gravity Forms plugin. However, after each
-automatic update, the manually placed Dutch translations are deleted. This plugin fixes
+automatic update, the manually placed Spanish translations are deleted. This plugin fixes
 that issue for all the Spanish WordPress and Gravity Forms users!
 
 
@@ -53,12 +53,12 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 == Changelog ==
 
+= 1.1.0 =
+*	Updated All Translations.
+*	Added Wordpress Header image.
+
 = 1.0.0 =
 *	First released, based in Gravity Forms Dutch Translation Plugin
-
-= 1.0.0 =
-*	Initial release (thanks to [Pronamic](http://pronamic.eu/)
-
 
 == Links ==
 
