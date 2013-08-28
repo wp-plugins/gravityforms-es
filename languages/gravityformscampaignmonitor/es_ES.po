@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: GRAVITY CAMPAIGN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-23 15:59-0400\n"
-"PO-Revision-Date: 2013-08-22 17:31+0100\n"
+"PO-Revision-Date: 2013-08-25 23:38+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: CLOSEMARKETING <info@closemarketing.es>\n"
 "MIME-Version: 1.0\n"
@@ -25,12 +25,13 @@ msgstr "Gravity Forms "
 msgid ""
 "There is a new version of Gravity Forms Campaign Monitor Add-On available."
 msgstr ""
+"Hay una nueva versión disponible del Addon Campaign Monitor de Gravity Forms."
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:142
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\plugin-upgrade.php:55
 #, php-format
 msgid "View version %s Details"
-msgstr ""
+msgstr "Ver detalles de la Versión %s"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:143
 #, php-format
@@ -38,6 +39,9 @@ msgid ""
 "%sRegister%s your copy of Gravity Forms to receive access to automatic "
 "upgrades and support. Need a license key? %sPurchase one now%s."
 msgstr ""
+"%sRegistra%s tu copia de Gravity Forms para recibir acceso automático a "
+"actualizaciones y soporte. ¿Necesitas una clave de licencia? %sCompra Ahora "
+"una%s."
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:196
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:581
@@ -73,7 +77,7 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:199
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:653
 msgid "Map Fields"
-msgstr ""
+msgstr "Campos del Mapa"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:199
 msgid ""
@@ -96,7 +100,7 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:201
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:731
 msgid "Resubscribe"
-msgstr ""
+msgstr "Resuscribir"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:201
 msgid ""
@@ -108,15 +112,15 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:212
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:492
 msgid "Campaign Monitor"
-msgstr ""
+msgstr "Campaign Monitor"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:258
 msgid "Campaign Monitor Account Information"
-msgstr ""
+msgstr "Campaign Monitor Información Cuenta"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:265
 msgid "API Key"
-msgstr ""
+msgstr "Llave API"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:270
 msgid ""
@@ -126,7 +130,7 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:274
 msgid "API Client ID"
-msgstr ""
+msgstr "ID Cliente API"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:278
 msgid ""
@@ -136,12 +140,12 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:282
 msgid "Save Settings"
-msgstr ""
+msgstr "Guardar Configuración"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:296
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:299
 msgid "Uninstall Campaign Monitor Add-On"
-msgstr ""
+msgstr "Desinstalar Addon Campaign Monitor"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:297
 msgid "Warning! This operation deletes ALL Campaign Monitor Feeds."
@@ -155,11 +159,11 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:329
 msgid "Feed deleted."
-msgstr ""
+msgstr "Conector borrado."
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:340
 msgid "Feeds deleted."
-msgstr ""
+msgstr "Conectores borrados."
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:346
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:347
@@ -173,7 +177,7 @@ msgstr "Añadir Nuevo"
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:358
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:360
 msgid "Bulk action"
-msgstr ""
+msgstr "Acción masiva"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:361
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:408
@@ -186,12 +190,12 @@ msgstr "Aplicar"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:364
 msgid "Delete selected feeds? "
-msgstr ""
+msgstr "¿Borrar estos conectores?"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:364
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:408
 msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
-msgstr ""
+msgstr "\\'Cancelar\\' para parar, \\'OK\\' para borrar."
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:373
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:383
@@ -201,12 +205,12 @@ msgstr "Formulario"
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:374
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:384
 msgid "Campaign Monitor Client"
-msgstr ""
+msgstr "Cliente Campaign Monitor"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:375
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:385
 msgid "Campaign Monitor List"
-msgstr ""
+msgstr "Lista Campaign Monitor"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:398
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:456
@@ -225,15 +229,15 @@ msgstr "Editar"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:408
 msgid "Delete this feed? "
-msgstr ""
+msgstr "¿Borrar este conector?"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:467
 msgid "Ajax error while updating feed"
-msgstr ""
+msgstr "Error Ajax cuando se actualizaba el conector"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:493
 msgid "Campaign Monitor Feed"
-msgstr ""
+msgstr "Conectores con Campaign Monitor"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:500
 #, php-format
@@ -245,7 +249,7 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:545
 #, php-format
 msgid "Feed Updated. %sback to list%s"
-msgstr ""
+msgstr "Conector Actualizado. %svolver al listado%s"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:551
 msgid "Feed could not be updated. Please enter all required information below."
@@ -257,7 +261,7 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:583
 msgid "Select a Client"
-msgstr ""
+msgstr "Seleccionar cliente"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:605
 #, php-format
@@ -267,27 +271,27 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:619
 msgid "Contact list"
-msgstr ""
+msgstr "Lista Clientes"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:635
 msgid "Select a Form"
-msgstr ""
+msgstr "Seleccionar Formulario"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:681
 msgid "Enable"
-msgstr ""
+msgstr "Habilitar"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:688
 msgid "Export to Campaign Monitor if "
-msgstr ""
+msgstr "Exportar a Campaign Monitor si"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:692
 msgid "is"
-msgstr ""
+msgstr "es"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:693
 msgid "is not"
-msgstr ""
+msgstr "no es"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:700
 msgid ""
@@ -319,11 +323,11 @@ msgstr "Cancelar"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:761
 msgid "Ajax error while selecting a client"
-msgstr ""
+msgstr "Error Ajax cuando se seleccionaba un cliente"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:813
 msgid "Ajax error while selecting a form"
-msgstr ""
+msgstr "Error Ajax cuando se seleccionaba un formulario"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:935
 msgid "Select a List"
@@ -335,7 +339,7 @@ msgstr "Listar Campos"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1013
 msgid "Form Fields"
-msgstr ""
+msgstr "Campos del Formulario"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1034
 msgid "Entry Date"
@@ -343,11 +347,11 @@ msgstr "Introducir Fecha"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1035
 msgid "User IP"
-msgstr ""
+msgstr "IP Usuario"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1036
 msgid "Source Url"
-msgstr ""
+msgstr "URL Origen"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1044
 msgid "Full"
@@ -362,3 +366,5 @@ msgstr ""
 #, php-format
 msgid "Oops!! Something went wrong.%sPlease try again or %scontact us%s."
 msgstr ""
+"Oops!! Algo fue mal. %sPor favor intenta otra vez o %scontacta con nosotros "
+"%s."
