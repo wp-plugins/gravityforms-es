@@ -5,6 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Requires at least: 3.0
 Tested up to: 3.6
 Stable tag: 1.1
+Version: 1.1
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
