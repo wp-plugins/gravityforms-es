@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: Gravity Forms User Registration\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-16 05:47-0500\n"
-"PO-Revision-Date: 2013-08-24 21:12+0100\n"
+"PO-Revision-Date: 2013-09-10 16:28+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Closemarketing <david@closemarketing.es>\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
 "X-Poedit-Basepath: .\n"
 "X-Generator: Poedit 1.5.7\n"
-"Language: es_ES\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp-content\\plugins"
 "\\gravityformsuserregistration\n"
@@ -303,7 +303,7 @@ msgstr "Guardar Configuración"
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:467
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:470
 msgid "Uninstall User Registration Add-On"
-msgstr ""
+msgstr "Desinstalar Add-On User Registration"
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:468
 msgid "Warning! This operation deletes ALL User Registration Feeds."
@@ -318,7 +318,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:581
 #, php-format
 msgid "Feed Updated. %sback to list%s"
-msgstr ""
+msgstr "Conector Actualizado. %svolver a la lista%s"
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:601
 msgid "Auto Generate Password"
@@ -448,11 +448,11 @@ msgstr "El Usuario no puede estar vacío"
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:1793
 msgid "This email address is already registered"
-msgstr ""
+msgstr "Esta dirección de email está ya registrada"
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:1796
 msgid "The email address can not be empty"
-msgstr ""
+msgstr "La dirección de email no puede estar vacía"
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:1800
 msgid "Passwords may not contain the character \"\\\""
