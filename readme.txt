@@ -3,9 +3,9 @@ Contributors: closemarketing
 Tags: gravityforms, gravity, form, forms, gravity forms, translation, spanish, espanol, español, es, es_ES
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZYGC6AT5JFQVE
 Requires at least: 3.0
-Tested up to: 3.6
+Tested up to: 3.7.1
 Stable tag: 1.1
-Version: 1.1
+Version: 1.2
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
@@ -27,32 +27,19 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 == Developers ==
 
-*	./update-pot gravityforms ~/Sites/example.com/wp-content/plugins/gravityforms
-*	./update-pot gravityformscampaignmonitor
-*	./update-pot gravityformsmailchimp
-*	./update-pot gravityformspaypal
-*	./update-pot gravityformspolls
-*	./update-pot gravityformssignature
-*	./update-pot gravityformsuserregistration ~/Sites/example.com/wp-content/plugins/gravityforms
 
-*	./download-po gravityforms 1.7.6
-*	./download-po gravityformscampaignmonitor 2.1
-*	./download-po gravityformsmailchimp 2.3
-*	./download-po gravityformspaypal 1.8
-*	./download-po gravityformspolls 1.5
-*	./download-po gravityformssignature 1.3
-*	./download-po gravityformsuserregistration 1.6
-
-*	./update-mo gravityforms
-*	./update-mo gravityformscampaignmonitor
-*	./update-mo gravityformsmailchimp
-*	./update-mo gravityformspaypal
-*	./update-mo gravityformspolls
-*	./update-mo gravityformssignature
-*	./update-mo gravityformsuserregistration
-
+*	gravityforms 1.8
+*	gravityformscampaignmonitor 2.1
+*	gravityformsmailchimp 2.3
+*	gravityformspaypal 1.8
+*	gravityformspolls 1.5
+*	gravityformssignature 1.3
+*	gravityformsuserregistration 1.6
 
 == Changelog ==
+
+= 1.3.0 =
+*	Updated All Translations for new Versions.
 
 = 1.1.0 =
 *	Updated All Translations.
