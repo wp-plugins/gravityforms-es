@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Gravity Forms Polls\n"
 "Report-Msgid-Bugs-To: Pronamic <info@pronamic.nl>\n"
 "POT-Creation-Date: 2013-08-09 12:30+0200\n"
-"PO-Revision-Date: 2013-08-24 17:59+0100\n"
+"PO-Revision-Date: 2013-08-28 16:43+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Closemarketing <david@closemarketing.es>\n"
 "MIME-Version: 1.0\n"
@@ -376,7 +376,7 @@ msgstr ""
 
 #: results.php:118
 msgid "Results Filters"
-msgstr ""
+msgstr "Filtros de Resultados"
 
 #: results.php:134 results.php:189
 msgid "Filters"
