@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Mail Chimp\n"
 "Report-Msgid-Bugs-To: Pronamic <info@pronamic.nl>\n"
 "POT-Creation-Date: 2013-08-09 13:28+0200\n"
-"PO-Revision-Date: 2013-08-24 21:12+0100\n"
+"PO-Revision-Date: 2013-11-09 00:57+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Closemarketing <david@closemarketing.es>\n"
 "MIME-Version: 1.0\n"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: mailchimp.php:248 mailchimp.php:914
 msgid "Send Welcome Email"
-msgstr ""
+msgstr "Enviar Email Bienvenida"
 
 #: mailchimp.php:248
 msgid ""
@@ -71,7 +71,7 @@ msgstr ""
 
 #: mailchimp.php:249 mailchimp.php:802
 msgid "Map Fields"
-msgstr ""
+msgstr "Mapa de Campos"
 
 #: mailchimp.php:249
 msgid ""
@@ -103,7 +103,7 @@ msgstr ""
 
 #: mailchimp.php:262 mailchimp.php:636
 msgid "MailChimp"
-msgstr ""
+msgstr "MailChimp"
 
 #: mailchimp.php:299
 msgid "Valid username and password."
@@ -159,19 +159,19 @@ msgstr ""
 
 #: mailchimp.php:405
 msgid "Feed deleted."
-msgstr ""
+msgstr "Conector borrado."
 
 #: mailchimp.php:416
 msgid "Feeds deleted."
-msgstr ""
+msgstr "Conectores borrados."
 
 #: mailchimp.php:422 mailchimp.php:423
 msgid "MailChimp Feeds"
-msgstr ""
+msgstr "Conectores MailChimp"
 
 #: mailchimp.php:424
 msgid "Add New"
-msgstr ""
+msgstr "Añadir Nuevo"
 
 #: mailchimp.php:435 mailchimp.php:437
 msgid "Bulk action"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: mailchimp.php:637
 msgid "MailChimp Feed"
-msgstr ""
+msgstr "Conector MailChimp"
 
 #: mailchimp.php:646
 #, php-format
@@ -251,11 +251,11 @@ msgstr ""
 
 #: mailchimp.php:786
 msgid "Select a form"
-msgstr ""
+msgstr "Selecciona formulario"
 
 #: mailchimp.php:832
 msgid "Enable"
-msgstr ""
+msgstr "Habilitar"
 
 #: mailchimp.php:839
 msgid "Export to MailChimp if "
@@ -263,31 +263,31 @@ msgstr ""
 
 #: mailchimp.php:842 mailchimp.php:1248
 msgid "is"
-msgstr ""
+msgstr "es"
 
 #: mailchimp.php:843 mailchimp.php:1249
 msgid "is not"
-msgstr ""
+msgstr "no es"
 
 #: mailchimp.php:844 mailchimp.php:1250
 msgid "greater than"
-msgstr ""
+msgstr "mayor que"
 
 #: mailchimp.php:845 mailchimp.php:1251
 msgid "less than"
-msgstr ""
+msgstr "menor que"
 
 #: mailchimp.php:846 mailchimp.php:1252
 msgid "contains"
-msgstr ""
+msgstr "contiene"
 
 #: mailchimp.php:847 mailchimp.php:1253
 msgid "starts with"
-msgstr ""
+msgstr "empieza con"
 
 #: mailchimp.php:848 mailchimp.php:1254
 msgid "ends with"
-msgstr ""
+msgstr "termina con"
 
 #: mailchimp.php:853
 msgid ""
@@ -297,7 +297,7 @@ msgstr ""
 
 #: mailchimp.php:910
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 #: mailchimp.php:913
 msgid "Abusing this may cause your MailChimp account to be suspended."
@@ -305,15 +305,15 @@ msgstr ""
 
 #: mailchimp.php:920
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: mailchimp.php:920
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: mailchimp.php:921
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: mailchimp.php:956
 msgid "Ajax error while selecting a form"
@@ -325,11 +325,11 @@ msgstr ""
 
 #: mailchimp.php:1139
 msgid "Groups"
-msgstr ""
+msgstr "Grupos"
 
 #: mailchimp.php:1238
 msgid "Assign to group"
-msgstr ""
+msgstr "Asignar al Grupo"
 
 #: mailchimp.php:1262
 msgid ""
