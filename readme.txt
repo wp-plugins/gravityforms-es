@@ -41,6 +41,7 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 = 1.2.0 =
 *	Updated All Translations for new Versions.
+*	Added Spanish Provinces.
 
 = 1.1.0 =
 *	Updated All Translations.

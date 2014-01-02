@@ -195,9 +195,9 @@ class GravityFormsESPlugin {
 				if ( wp_script_is( $script_datepicker ) ) {
 					// @see http://code.google.com/p/jquery-ui/source/browse/trunk/ui/i18n/jquery.ui.datepicker-nl.js
 					// @see https://github.com/jquery/jquery-ui/blob/master/ui/i18n/jquery.ui.datepicker-nl.js
-					$src = plugins_url( 'js/jquery.ui.datepicker-nl.js', $this->file );
+					$src = plugins_url( 'js/jquery.ui.datepicker-es.js', $this->file );
 
-					wp_enqueue_script( 'gforms_ui_datepicker_nl', $src, array( $script_datepicker ), false, true );
+					wp_enqueue_script( 'gforms_ui_datepicker_es', $src, array( $script_datepicker ), false, true );
 				}
 			}
 		}
@@ -209,16 +209,16 @@ class GravityFormsESPlugin {
 	 * Gravity Forms admin pre render
 	 */
 	public function gform_admin_pre_render( $form ) {
-		wp_register_script( 'gravityforms-nl-forms', plugins_url( 'js/forms-nl.js', $this->file ) );
+		wp_register_script( 'gravityforms-es-forms', plugins_url( 'js/forms-es.js', $this->file ) );
 
-		wp_localize_script( 'gravityforms-nl-forms', 'gravityFormsNlL10n', array(
+		wp_localize_script( 'gravityforms-es-forms', 'gravityFormsNlL10n', array(
 			'formTitle'           => __( 'Untitled Form', 'gravityforms_es' ) ,
 			'formDescription'     => __( 'We would love to hear from you! Please fill out this form and we will get in touch with you shortly.', 'gravityforms_es' ) ,
 			'confirmationMessage' => __( 'Thanks for contacting us! We will get in touch with you shortly.', 'gravityforms_es' ) ,
 			'buttonText'          => __( 'Submit', 'gravityforms_es' )
 		) );
 
-		wp_print_scripts( array( 'gravityforms-nl-forms' ) );
+		wp_print_scripts( array( 'gravityforms-es-forms' ) );
 
 		return $form;
 	}
@@ -267,24 +267,64 @@ class GravityFormsESPlugin {
 	////////////////////////////////////////////////////////////
 
 	/**
-	 * Get list of Dutch provinces
+	 * Get list of Spanish provinces
 	 *
 	 * @return array
 	 */
-	public static function get_dutch_provinces() {
+	public static function get_spanish_provinces() {
 		return array(
-			__( 'Drenthe', 'gravityforms_es' ),
-			__( 'Flevoland', 'gravityforms_es' ),
-			__( 'Friesland', 'gravityforms_es' ),
-			__( 'Gelderland', 'gravityforms_es' ),
-			__( 'Groningen', 'gravityforms_es' ),
-			__( 'Limburg', 'gravityforms_es' ),
-			__( 'Noord-Brabant', 'gravityforms_es' ),
-			__( 'Noord-Holland', 'gravityforms_es' ),
-			__( 'Overijssel', 'gravityforms_es' ),
-			__( 'Utrecht', 'gravityforms_es' ),
-			__( 'Zeeland', 'gravityforms_es' ),
-			__( 'Zuid-Holland', 'gravityforms_es' )
+			__( 'Albacete', 'gravityforms_es' ),
+			__( 'Alicante', 'gravityforms_es' ),
+			__( 'Almería', 'gravityforms_es' ),
+			__( 'Asturias', 'gravityforms_es' ),
+			__( 'Ávila', 'gravityforms_es' ),
+			__( 'Badajoz', 'gravityforms_es' ),
+			__( 'Barcelona', 'gravityforms_es' ),
+			__( 'Burgos', 'gravityforms_es' ),
+			__( 'Cáceres', 'gravityforms_es' ),
+			__( 'Cádiz', 'gravityforms_es' ),
+			__( 'Cantabria', 'gravityforms_es' ),
+			__( 'Castellón', 'gravityforms_es' ),
+			__( 'Ceuta', 'gravityforms_es' ),
+			__( 'Ciudad Real', 'gravityforms_es' ),
+			__( 'Córdoba', 'gravityforms_es' ),
+			__( 'Coruña (La)', 'gravityforms_es' ),
+			__( 'Cuenca', 'gravityforms_es' ),
+			__( 'Girona', 'gravityforms_es' ),
+			__( 'Granada', 'gravityforms_es' ),
+			__( 'Guadalajara', 'gravityforms_es' ),
+			__( 'Guipuzcoa', 'gravityforms_es' ),
+			__( 'Huelva', 'gravityforms_es' ),
+			__( 'Huesca', 'gravityforms_es' ),
+			__( 'Islas Baleares', 'gravityforms_es' ),
+			__( 'Jaén', 'gravityforms_es' ),
+			__( 'León', 'gravityforms_es' ),
+			__( 'Lleida', 'gravityforms_es' ),
+			__( 'Lugo', 'gravityforms_es' ),
+			__( 'Madrid', 'gravityforms_es' ),
+			__( 'Málaga', 'gravityforms_es' ),
+			__( 'Melilla', 'gravityforms_es' ),
+			__( 'Murcia', 'gravityforms_es' ),
+			__( 'Navarra', 'gravityforms_es' ),
+			__( 'Orense', 'gravityforms_es' ),
+			__( 'Palencia', 'gravityforms_es' ),
+			__( 'Palmas (Las)', 'gravityforms_es' ),
+			__( 'Pontevedra', 'gravityforms_es' ),
+			__( 'provincia', 'gravityforms_es' ),
+			__( 'Rioja (La)', 'gravityforms_es' ),
+			__( 'Salamanca', 'gravityforms_es' ),
+			__( 'Santa Cruz de Tenerife', 'gravityforms_es' ),
+			__( 'Segovia', 'gravityforms_es' ),
+			__( 'Sevilla', 'gravityforms_es' ),
+			__( 'Soria', 'gravityforms_es' ),
+			__( 'Tarragona', 'gravityforms_es' ),
+			__( 'Teruel', 'gravityforms_es' ),
+			__( 'Toledo', 'gravityforms_es' ),
+			__( 'Valencia', 'gravityforms_es' ),
+			__( 'Valladolid', 'gravityforms_es' ),
+			__( 'Vizcaya', 'gravityforms_es' ),
+			__( 'Zamora', 'gravityforms_es' ),
+			__( 'Zaragoza', 'gravityforms_es' )
 		);
 	}
 
