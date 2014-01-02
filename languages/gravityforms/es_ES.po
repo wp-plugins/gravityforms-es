@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GravityForms es_ES\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-30 15:12-0500\n"
-"PO-Revision-Date: 2013-11-09 00:47+0100\n"
+"PO-Revision-Date: 2014-01-03 00:38+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Carmary <christian.rojas@carmary.com>\n"
 "Language: es_CO\n"
@@ -16,7 +16,7 @@ msgstr ""
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Textdomain-Support: yes\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.6.3\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: ../common.php:209 ../common.php:485 ../form_detail.php:2217
@@ -952,7 +952,7 @@ msgstr "Corea del Sur"
 
 #: ../common.php:2259
 msgid "Kosovo"
-msgstr ""
+msgstr "Kosovo"
 
 # @ gravityforms
 #: ../common.php:2259
@@ -1983,7 +1983,7 @@ msgstr "COREA DEL SUR"
 
 #: ../common.php:2365
 msgid "KOSOVO"
-msgstr ""
+msgstr "KOSOVO"
 
 # @ gravityforms
 #: ../common.php:2366
@@ -3431,7 +3431,7 @@ msgstr "in progreso"
 
 #: ../common.php:5454
 msgid "File exceeds size limit"
-msgstr ""
+msgstr "El Archivo excede el límite del tamaño"
 
 # @ gravityforms
 #: ../common.php:5455
@@ -3468,9 +3468,8 @@ msgstr "Cancelar esta actualización"
 
 # @ gravityforms
 #: ../common.php:5461
-#, fuzzy
 msgid "Cancelled"
-msgstr "Cancelar"
+msgstr "Cancelado"
 
 # @ gravityforms
 #: ../currency.php:94
@@ -3746,9 +3745,8 @@ msgstr "Este formulario no tiene ningún tipo de notificaciones configuradas"
 
 # @ gravityforms
 #: ../entry_detail.php:467 ../entry_list.php:817
-#, fuzzy
 msgid "Configure Notifications"
-msgstr "Notificaciones"
+msgstr "Configurar Notificaciones"
 
 # @ gravityforms
 #: ../entry_detail.php:483 ../entry_list.php:836 ../notification.php:569
@@ -3924,9 +3922,8 @@ msgstr "&raquo;"
 
 # @ gravityforms
 #: ../entry_list.php:201
-#, fuzzy
 msgid "Any field"
-msgstr "Agregar Campos"
+msgstr "Cualquier Camo"
 
 # Falta
 #: ../entry_list.php:292
@@ -3966,7 +3963,7 @@ msgstr ""
 #: ../entry_list.php:528
 #, php-format
 msgid "Select all %s{0}%s entries."
-msgstr ""
+msgstr "Selecciona todas %s{0}%s las entradas."
 
 # @ gravityforms
 #: ../entry_list.php:529
@@ -3976,9 +3973,8 @@ msgstr "La entrada ha sido borrada."
 
 # @ gravityforms
 #: ../entry_list.php:530
-#, fuzzy
 msgid "Clear selection"
-msgstr "Por favor seleccione un formulario"
+msgstr "Limpiar Selección"
 
 # @ gravityforms
 #: ../entry_list.php:615
@@ -4108,9 +4104,9 @@ msgid "click to select columns to display"
 msgstr "Clic para eliminar este campo"
 
 #: ../entry_list.php:1054
-#, fuzzy, php-format
+#, php-format
 msgid "%d files"
-msgstr "Sin filtros"
+msgstr "%d archivos"
 
 # @ gravityforms
 #: ../entry_list.php:1142 ../entry_list.php:1168 ../entry_list.php:1195
@@ -4447,11 +4443,11 @@ msgstr "Haga clic para editar el mensaje"
 
 #: ../form_detail.php:197
 msgid "begin form"
-msgstr ""
+msgstr "empezar formulario"
 
 #: ../form_detail.php:198
 msgid "START PAGING"
-msgstr ""
+msgstr "INICIO PAGINACIÓN"
 
 #: ../form_detail.php:199
 #, fuzzy
@@ -4658,11 +4654,11 @@ msgstr "Editar Última Página"
 
 #: ../form_detail.php:392
 msgid "END PAGING"
-msgstr ""
+msgstr "FIN PAGINACIÓN"
 
 #: ../form_detail.php:393
 msgid "end of form"
-msgstr ""
+msgstr "fin del formulario"
 
 # @ gravityforms
 #: ../form_detail.php:406 ../form_detail.php:636
@@ -6632,7 +6628,7 @@ msgstr "Editar Última Página"
 
 #: ../form_display.php:2408
 msgid "PAGE BREAK"
-msgstr ""
+msgstr "SALTO PÁGINA"
 
 #: ../form_display.php:2408
 #, fuzzy
@@ -7286,7 +7282,7 @@ msgstr "Complementos"
 #: ../gravityforms.php:966
 #, php-format
 msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
 
 # @ gravityforms
 # @ gravityform
@@ -8359,7 +8355,7 @@ msgstr "Valor inválido"
 
 #: ../settings.php:160
 msgid "Your license key has been successfully validated."
-msgstr ""
+msgstr "Tu clave de licencia ha sido validada correctamente."
 
 #: ../settings.php:162
 #, fuzzy
@@ -9802,7 +9798,7 @@ msgstr "Seleccione la forma que desea exportar."
 
 #: ../tooltips.php:125
 msgid "Filter the entries by adding conditions."
-msgstr ""
+msgstr "Filtra las entradas añadiendo condiciones."
 
 # @ gravityforms
 #: ../tooltips.php:126
@@ -10458,23 +10454,20 @@ msgstr "ID Transacción"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:470
-#, fuzzy
 msgid "Amount"
-msgstr "País"
+msgstr "Cantidad"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:477
 #: ../includes/addon/class-gf-payment-addon.php:517
-#, fuzzy
 msgid "Subscription"
-msgstr "Descripción"
+msgstr "Suscripción"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:480
 #: ../includes/addon/class-gf-payment-addon.php:516
-#, fuzzy
 msgid "Products and Services"
-msgstr "Servicios Profesionales"
+msgstr "Productos y Servicios"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:484
@@ -10486,15 +10479,13 @@ msgstr "Seleccionar Categoría"
 #: ../includes/addon/class-gf-payment-addon.php:491
 #: ../includes/addon/class-gf-payment-addon.php:707
 #: ../includes/addon/class-gf-payment-addon.php:715
-#, fuzzy
 msgid "Form Total"
-msgstr "Título del Formulario"
+msgstr "Total Formulario"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:506
-#, fuzzy
 msgid "Feed Settings"
-msgstr "Configuración"
+msgstr "Configuración Conectores"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:515
@@ -10520,11 +10511,11 @@ msgstr "Cantidad Suscripción"
 
 #: ../includes/addon/class-gf-payment-addon.php:550
 msgid "Setup Fee"
-msgstr ""
+msgstr "Coste Implantación"
 
 #: ../includes/addon/class-gf-payment-addon.php:556
 msgid "Trial"
-msgstr ""
+msgstr "Prueba"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:563
@@ -10534,22 +10525,19 @@ msgstr "Confirmación sin Título"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:569
-#, fuzzy
 msgid "Options"
-msgstr "Opción"
+msgstr "Opciones"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:630
 #: ../includes/addon/class-gf-payment-addon.php:665
-#, fuzzy
 msgid "Enabled"
-msgstr "Habilitar AJAX"
+msgstr "Habilitado"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:676
-#, fuzzy
 msgid "Enter an amount"
-msgstr "Introducir nombre"
+msgstr "Introducir una cantidad"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:723
@@ -10559,13 +10547,12 @@ msgstr "Opción secundaria"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:734
-#, fuzzy
 msgid "Address 2"
-msgstr "Dirección"
+msgstr "Dirección 2"
 
 #: ../includes/addon/class-gf-payment-addon.php:737
 msgid "Zip"
-msgstr ""
+msgstr "Código Postal"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-payment-addon.php:765
@@ -10587,9 +10574,8 @@ msgstr "Ver entradas generadas por este formulario"
 
 #: ../includes/addon/class-gf-results.php:112
 #: ../includes/addon/class-gf-results.php:117
-#, fuzzy
 msgid "Results"
-msgstr "No se encontraron resultados"
+msgstr "Resultados"
 
 # @ gravityforms
 #: ../includes/addon/class-gf-results.php:198
@@ -10707,7 +10693,7 @@ msgstr ""
 
 #: ../includes/locking/class-gf-locking.php:192
 msgid "Accept"
-msgstr ""
+msgstr "Aceptar"
 
 #: ../includes/locking/class-gf-locking.php:194
 #, php-format
@@ -10731,14 +10717,12 @@ msgid "You now have control"
 msgstr ""
 
 #: ../includes/locking/class-gf-locking.php:198
-#, fuzzy
 msgid "Pending"
-msgstr "Pendiente Revisión"
+msgstr "Pendiente"
 
 #: ../includes/locking/class-gf-locking.php:199
-#, fuzzy
 msgid "No response"
-msgstr "No se encontraron resultados"
+msgstr "Sin respuesta"
 
 # @ gravityforms
 #: ../includes/locking/class-gf-locking.php:200
@@ -10748,7 +10732,7 @@ msgstr "Control de Calidad"
 
 #: ../includes/locking/class-gf-locking.php:201
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: ../includes/locking/class-gf-locking.php:202
 msgid "Your request was rejected"
@@ -10860,13 +10844,12 @@ msgid "Impersonate account"
 msgstr ""
 
 #: ../includes/webapi/webapi.php:213
-#, fuzzy
 msgid "Developer tools"
-msgstr "Docs Desarrollador"
+msgstr "Herramientas para Desarrolladores"
 
 #: ../includes/webapi/webapi.php:231
 msgid "Show/hide QR Code"
-msgstr ""
+msgstr "Mostrar/ocultar Código QR"
 
 #: ../includes/webapi/webapi.php:247
 #, fuzzy
@@ -10875,7 +10858,7 @@ msgstr "Docs Desarrollador"
 
 #: ../includes/webapi/webapi.php:545
 msgid "Permission denied"
-msgstr ""
+msgstr "Permiso denegado"
 
 # @ gravityforms
 #: ../includes/webapi/webapi.php:606
@@ -10921,21 +10904,18 @@ msgstr "El formulario se ha actualizado correctamente."
 
 # @ gravityforms
 #: ../includes/webapi/webapi.php:786
-#, fuzzy
 msgid "Form created successfully"
-msgstr "El formulario se ha actualizado correctamente."
+msgstr "El formulario se ha creado correctamente."
 
 # @ gravityforms
 #: ../includes/webapi/webapi.php:788
-#, fuzzy
 msgid "Forms created successfully"
-msgstr "El formulario se ha actualizado correctamente."
+msgstr "Los formularios se han creado correctamente."
 
 # @ gravityforms
 #: ../includes/webapi/webapi.php:815
-#, fuzzy
 msgid "Forms updated successfully"
-msgstr "El formulario se ha actualizado correctamente."
+msgstr "Los Formularios se han actualizado correctamente."
 
 # @ gravityforms
 #: ../includes/webapi/webapi.php:817
@@ -10973,9 +10953,8 @@ msgstr "Sin Empleo"
 
 # @ gravityforms
 #: ../includes/webapi/webapi.php:1402
-#, fuzzy
 msgid "Internal Error"
-msgstr "Interno"
+msgstr "Error Interno"
 
 # @ gravityforms
 #~ msgid "Search Entries:"
