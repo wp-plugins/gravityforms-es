@@ -18,6 +18,13 @@ Therefore there are regular updates of the Gravity Forms plugin. However, after 
 automatic update, the manually placed Spanish translations are deleted. This plugin fixes
 that issue for all the Spanish WordPress and Gravity Forms users!
 
+> Spanish:
+
+> Este plugin requiere de <a href="https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
+
+Los desarrolladores de [Gravity Forms](https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527) no se han enfocado en la traducción de este plugin. En cambio, si lo hace para las funcionalidades de este plugin. Por ello, encontrarás que hay actualizaciones constantes, pero sin embargo, en cada actualización automática, si has subido manualmente una traducción, esta será borrada. Este plugin arregla este problema para todos los usuarios de habla Hispana y usuarios de Gravity Forms!
+
+Este plugin está mantenido por [Closemarketing](http://www.closemarketing.es/)
 
 == Installation ==
 
