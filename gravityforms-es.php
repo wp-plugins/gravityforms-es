@@ -258,7 +258,7 @@ class GravityFormsESPlugin {
 			'country'     => __( 'Netherlands', 'gravityforms_es' ),
 			'zip_label'   => __( 'Postal Code', 'gravityforms_es' ),
 			'state_label' => __( 'Province', 'gravityforms_es' ),
-			'states'      => array_merge( array( '' ), self::get_dutch_provinces() )
+			'states'      => array_merge( array( '' ), self::get_spanish_provinces() )
 		);
 
 		return $address_types;
