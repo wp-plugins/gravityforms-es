@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: Mail Chimp\n"
 "Report-Msgid-Bugs-To: Pronamic <info@pronamic.nl>\n"
 "POT-Creation-Date: 2013-08-09 13:28+0200\n"
-"PO-Revision-Date: 2013-11-09 00:57+0100\n"
+"PO-Revision-Date: 2014-01-05 08:06+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Closemarketing <david@closemarketing.es>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.6.3\n"
 "Language: es_ES\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -239,7 +239,7 @@ msgstr ""
 
 #: mailchimp.php:743
 msgid "MailChimp list"
-msgstr ""
+msgstr "Lista MailChimp"
 
 #: mailchimp.php:761
 msgid "Could not load MailChimp contact lists. <br/>Error: "
@@ -247,7 +247,7 @@ msgstr ""
 
 #: mailchimp.php:767
 msgid "Select a MailChimp List"
-msgstr ""
+msgstr "Seleccionar Lista MailChimp"
 
 #: mailchimp.php:786
 msgid "Select a form"
@@ -259,7 +259,7 @@ msgstr "Habilitar"
 
 #: mailchimp.php:839
 msgid "Export to MailChimp if "
-msgstr ""
+msgstr "Exportar a MailChimp si"
 
 #: mailchimp.php:842 mailchimp.php:1248
 msgid "is"
@@ -321,7 +321,7 @@ msgstr ""
 
 #: mailchimp.php:1069
 msgid "Enter value"
-msgstr ""
+msgstr "Introducir Valor"
 
 #: mailchimp.php:1139
 msgid "Groups"
@@ -339,35 +339,35 @@ msgstr ""
 
 #: mailchimp.php:1333
 msgid "List Fields"
-msgstr ""
+msgstr "Listar Campos"
 
 #: mailchimp.php:1333
 msgid "Form Fields"
-msgstr ""
+msgstr "Campos del Formulario"
 
 #: mailchimp.php:1353
 msgid "Entry Date"
-msgstr ""
+msgstr "Fecha Entrada"
 
 #: mailchimp.php:1354
 msgid "User IP"
-msgstr ""
+msgstr "IP Usuario"
 
 #: mailchimp.php:1355
 msgid "Source Url"
-msgstr ""
+msgstr "URL Origen"
 
 #: mailchimp.php:1356
 msgid "Form Title"
-msgstr ""
+msgstr "Título del Formulario"
 
 #: mailchimp.php:1364 mailchimp.php:1368
 msgid "Full"
-msgstr ""
+msgstr "Completo"
 
 #: mailchimp.php:1455
 msgid "Subscribe user to MailChimp only when payment is received."
-msgstr ""
+msgstr "Suscribirse a MailChimp sólo cuando se realizó el pago."
 
 #: mailchimp.php:1710
 msgid "You don't have adequate permission to uninstall MailChimp Add-On."
