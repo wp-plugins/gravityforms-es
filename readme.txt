@@ -5,24 +5,26 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Requires at least: 3.0
 Tested up to: 3.8
 Stable tag: 1.3
-Version: 1.3
+Version: 1.4
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
 == Description ==
-> This plugin requires the <a href="https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527">Gravity Forms plugin</a>. <strong>Don't use Gravity Forms? <a href="https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527">Buy the plugin</a></strong> and start using this revolutionary plugin!
+> This plugin requires the <a href="http://www.gravityforms.com/">Gravity Forms plugin</a>. <strong>Don't use Gravity Forms? <a href="http://www.gravityforms.com/">Buy the plugin</a></strong> and start using this revolutionary plugin!
 
-The [Gravity Forms](https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527) developers don't focus on translating
+The [Gravity Forms](http://www.gravityforms.com/) developers don't focus on translating
 their plugin. Instead they concentrate on the core functionalities of the plugin itself.
 Therefore there are regular updates of the Gravity Forms plugin. However, after each
 automatic update, the manually placed Spanish translations are deleted. This plugin fixes
 that issue for all the Spanish WordPress and Gravity Forms users!
 
-> Este plugin requiere de <a href="https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
+Do you want to contribute to this translation? I’ve made a Glotpress Project in order to share it:
+[Translation for Gravity Forms](http://www.closemarketing.es/traducciones/projects/gravityforms-main-es)
 
-Los desarrolladores de [Gravity Forms](https://www.e-junkie.com/ecom/gb.php?cl=54585&c=ib&aff=256527) no se han enfocado en la traducción de este plugin. En cambio, si lo hace para las funcionalidades de este plugin. Por ello, encontrarás que hay actualizaciones constantes, pero sin embargo, en cada actualización automática, si has subido manualmente una traducción, esta será borrada. Este plugin arregla este problema para todos los usuarios de habla Hispana y usuarios de Gravity Forms!
 
-Este plugin está mantenido por [Closemarketing](http://www.closemarketing.es/)
+> Este plugin requiere de <a href="http://www.gravityforms.com/">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="http://www.gravityforms.com/">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
+
+Los desarrolladores de [Gravity Forms](http://www.gravityforms.com/) no se han enfocado en la traducción de este plugin. En cambio, si lo hace para las funcionalidades de este plugin. Por ello, encontrarás que hay actualizaciones constantes, pero sin embargo, en cada actualización automática, si has subido manualmente una traducción, esta será borrada. Este plugin arregla este problema para todos los usuarios de habla Hispana y usuarios de Gravity Forms!
 
 == Installation ==
 
@@ -35,7 +37,7 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 *	gravityforms 1.8.3
 *	gravityformscampaignmonitor 2.1
-*	gravityformsmailchimp 2.3
+*	gravityformsmailchimp 2.4
 *	gravityformspaypal 1.8
 *	gravityformspolls 1.5
 *	gravityformssignature 1.3
@@ -43,6 +45,9 @@ WordPress installation and then activate the Plugin from Plugins page.
 *       AWeber Add-On v1.4
 
 == Changelog ==
+
+= 1.4.0 =
+*	Updated All Translations for new Versions.
 
 = 1.3.0 =
 *	Updated All Translations for new Versions.
