@@ -3,16 +3,16 @@ Contributors: closemarketing
 Tags: gravityforms, gravity, form, forms, gravity forms, translation, spanish, espanol, español, es, es_ES
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZYGC6AT5JFQVE
 Requires at least: 3.0
-Tested up to: 3.9
-Stable tag: 1.4
+Tested up to: 3.8
+Stable tag: 1.3
 Version: 1.4
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
 == Description ==
-> This plugin requires the <a href="http://www.closemarketing.es/likes/gravityforms/">Gravity Forms plugin</a>. <strong>Don't use Gravity Forms? <a href="http://www.closemarketing.es/likes/gravityforms/">Buy the plugin</a></strong> and start using this revolutionary plugin!
+> This plugin requires the <a href="http://www.gravityforms.com/">Gravity Forms plugin</a>. <strong>Don't use Gravity Forms? <a href="http://www.gravityforms.com/">Buy the plugin</a></strong> and start using this revolutionary plugin!
 
-The [Gravity Forms](http://www.closemarketing.es/likes/gravityforms/) developers don't focus on translating
+The [Gravity Forms](http://www.gravityforms.com/) developers don't focus on translating
 their plugin. Instead they concentrate on the core functionalities of the plugin itself.
 Therefore there are regular updates of the Gravity Forms plugin. However, after each
 automatic update, the manually placed Spanish translations are deleted. This plugin fixes
@@ -22,9 +22,9 @@ Do you want to contribute to this translation? I’ve made a Glotpress Project i
 [Translation for Gravity Forms](http://www.closemarketing.es/traducciones/projects/gravityforms-main-es)
 
 
-> Este plugin requiere de <a href="http://www.closemarketing.es/likes/gravityforms/">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="http://www.closemarketing.es/likes/gravityforms/">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
+> Este plugin requiere de <a href="http://www.gravityforms.com/">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="http://www.gravityforms.com/">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
 
-Los desarrolladores de [Gravity Forms](http://www.closemarketing.es/likes/gravityforms/) no se han enfocado en la traducción de este plugin. En cambio, si lo hace para las funcionalidades de este plugin. Por ello, encontrarás que hay actualizaciones constantes, pero sin embargo, en cada actualización automática, si has subido manualmente una traducción, esta será borrada. Este plugin arregla este problema para todos los usuarios de habla Hispana y usuarios de Gravity Forms!
+Los desarrolladores de [Gravity Forms](http://www.gravityforms.com/) no se han enfocado en la traducción de este plugin. En cambio, si lo hace para las funcionalidades de este plugin. Por ello, encontrarás que hay actualizaciones constantes, pero sin embargo, en cada actualización automática, si has subido manualmente una traducción, esta será borrada. Este plugin arregla este problema para todos los usuarios de habla Hispana y usuarios de Gravity Forms!
 
 == Installation ==
 
@@ -35,7 +35,7 @@ WordPress installation and then activate the Plugin from Plugins page.
 == Developers ==
 
 
-*	gravityforms 1.8.7
+*	gravityforms 1.8.8
 *	gravityformscampaignmonitor 2.1
 *	gravityformsmailchimp 2.4
 *	gravityformspaypal 1.8
@@ -43,6 +43,7 @@ WordPress installation and then activate the Plugin from Plugins page.
 *	gravityformssignature 1.3
 *	gravityformsuserregistration 1.7
 *       AWeber Add-On v1.4
+*       Gravity Forms Survey Add-on 2.1
 
 == Changelog ==
 
@@ -71,6 +72,10 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 
 == Closemarketing plugins ==
+
+*	[Send SMS to WordPress Users via Arsys](http://wordpress.org/plugins/send-sms-arsys/)
+*	[Clean HTML Code in the Editor](http://wordpress.org/plugins/clean-html/)
+ing plugins ==
 
 *	[Send SMS to WordPress Users via Arsys](http://wordpress.org/plugins/send-sms-arsys/)
 *	[Clean HTML Code in the Editor](http://wordpress.org/plugins/clean-html/)
