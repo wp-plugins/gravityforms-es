@@ -18,13 +18,13 @@ Therefore there are regular updates of the Gravity Forms plugin. However, after 
 automatic update, the manually placed Spanish translations are deleted. This plugin fixes
 that issue for all the Spanish WordPress and Gravity Forms users!
 
-Do you want to contribute to this translation? I’ve made a Glotpress Project in order to share it:
-[Translation for Gravity Forms](http://www.closemarketing.es/traducciones/projects/gravityforms-main-es)
-
+Translated Addons included in this plugin: A Weber, Campaign Monitor, Fresh Books, Mail Chimp, PayPal, Polls, Quiz, Signature, Survey, and User Registration.
 
 > Este plugin requiere de <a href="http://www.closemarketing.es/likes/gravityforms/">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="http://www.closemarketing.es/likes/gravityforms/">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
 
 Los desarrolladores de [Gravity Forms](http://www.closemarketing.es/likes/gravityforms/) no se han enfocado en la traducción de este plugin. En cambio, si lo hace para las funcionalidades de este plugin. Por ello, encontrarás que hay actualizaciones constantes, pero sin embargo, en cada actualización automática, si has subido manualmente una traducción, esta será borrada. Este plugin arregla este problema para todos los usuarios de habla Hispana y usuarios de Gravity Forms!
+
+Addons incluidos en la traducción: A Weber, Campaign Monitor, Fresh Books, Mail Chimp, PayPal, Polls, Quiz, Signature, Survey, y User Registration.
 
 == Installation ==
 
@@ -35,15 +35,17 @@ WordPress installation and then activate the Plugin from Plugins page.
 == Developers ==
 
 
-*	gravityforms 1.8.9
+*	gravityforms 1.8.12
+*	gravityformsaweber 1.4
 *	gravityformscampaignmonitor 2.1
+*	gravityformsfreshbooks 1.5
 *	gravityformsmailchimp 2.4
 *	gravityformspaypal 1.8
 *	gravityformspolls 1.5
-*	gravityformssignature 1.3
-*	gravityformsuserregistration 1.7
-*       AWeber Add-On v1.4
 *	gravityformsquiz 2.0
+*	gravityformssignature 2.1
+*	gravityformssurvey 2.1
+*	gravityformsuserregistration 1.7
 
 == Changelog ==
 
