@@ -3,7 +3,7 @@ Contributors: closemarketing
 Tags: gravityforms, gravity, form, forms, gravity forms, translation, spanish, espanol, español, es, es_ES
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZYGC6AT5JFQVE
 Requires at least: 3.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.5
 Version: 1.5
 
