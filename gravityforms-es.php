@@ -160,6 +160,9 @@ class GravityFormsESPlugin {
 				),
 				'gravityformsquiz' => array(
 					'languages/gravityformsquiz-es_ES.mo' => 'gravityformsquiz/es_ES.mo'
+				),
+				'gravityformscoupons' => array(
+					'languages/gravityformscoupons-es_ES.mo' => 'gravityformscoupons/es_ES.mo'
 				)
 			);
 
