@@ -3,9 +3,9 @@ Contributors: closemarketing
 Tags: gravityforms, gravity, form, forms, gravity forms, translation, spanish, espanol, español, es, es_ES
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZYGC6AT5JFQVE
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 1.5
-Version: 1.5
+Tested up to: 4.2
+Stable tag: 1.7
+Version: 1.7
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
@@ -18,13 +18,19 @@ Therefore there are regular updates of the Gravity Forms plugin. However, after 
 automatic update, the manually placed Spanish translations are deleted. This plugin fixes
 that issue for all the Spanish WordPress and Gravity Forms users!
 
-Translated Addons included in this plugin: A Weber, Campaign Monitor, Fresh Books, Mail Chimp, PayPal, Polls, Quiz, Signature, Survey, and User Registration.
+Do you want to contribute to this translation? I’ve made a Glotpress Project in order to share it:
+[Translation for Gravity Forms](http://www.closemarketing.es/traducciones/projects/gravityforms-main-es)
 
-> Este plugin requiere de <a href="http://www.closemarketing.es/likes/gravityforms/">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="http://www.closemarketing.es/likes/gravityforms/">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
+
+> Este plugin requiere de <a href="https://www.closemarketing.es/likes/gravityforms/">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="http://www.closemarketing.es/likes/gravityforms/">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
 
 Los desarrolladores de [Gravity Forms](http://www.closemarketing.es/likes/gravityforms/) no se han enfocado en la traducción de este plugin. En cambio, si lo hace para las funcionalidades de este plugin. Por ello, encontrarás que hay actualizaciones constantes, pero sin embargo, en cada actualización automática, si has subido manualmente una traducción, esta será borrada. Este plugin arregla este problema para todos los usuarios de habla Hispana y usuarios de Gravity Forms!
 
-Addons incluidos en la traducción: A Weber, Campaign Monitor, Fresh Books, Mail Chimp, PayPal, Polls, Quiz, Signature, Survey, y User Registration.
+Others Plugins:
+- [Gravity Forms CRM Addon](http://codecanyon.net/item/gravity-forms-crm-addon/10521695)
+- [Gravity Forms in Spanish](https://wordpress.org/plugins/gravityforms-es/)
+- [Clean HTML in Editor](https://wordpress.org/plugins/clean-html/) 
+- [Send SMS to Wordpress Users via Arsys](https://wordpress.org/plugins/send-sms-arsys/) 
 
 == Installation ==
 
@@ -35,19 +41,14 @@ WordPress installation and then activate the Plugin from Plugins page.
 == Developers ==
 
 
-*	gravityforms 1.8.12
-*	gravityformsaweber 1.4
-*	gravityformscampaignmonitor 2.1
-*	gravityformsfreshbooks 1.5
-*	gravityformsmailchimp 2.4
-*	gravityformspaypal 1.8
-*	gravityformspolls 1.5
-*	gravityformsquiz 2.0
-*	gravityformssignature 2.1
-*	gravityformssurvey 2.1
-*	gravityformsuserregistration 1.7
-
 == Changelog ==
+
+= 1.7.0 =
+*	Updated All Translations for new Versions.
+
+= 1.6.0 =
+*	Updated All Translations for new Versions.
+*	Coupons, Mailchimp translations finished.
 
 = 1.5.0 =
 *	Updated All Translations for new Versions.
